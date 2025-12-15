@@ -1,0 +1,28 @@
+feature,importance
+credit_score,0.48781306934444796
+debt_to_income_ratio,0.2625446843797088
+credit_history_years,0.073091098512906
+defaults_on_file,0.05467938196453231
+loan_to_income_ratio,0.04290519605612957
+delinquencies_last_2yrs,0.03172999129585913
+loan_intent_Education,0.02467518113529672
+loan_intent_Debt Consolidation,0.016171530139836066
+loan_intent_Personal,0.0033377947614075575
+payment_to_income_ratio,0.001798890398746427
+savings_assets,0.00045169922740311247
+age,0.000297266831388429
+years_employed,0.0002939376262054022
+interest_rate,0.00012066060686056332
+current_debt,8.961771927206153e-05
+loan_amount,0.0
+derogatory_marks,0.0
+annual_income,0.0
+occupation_status_Employed,0.0
+product_type_Credit Card,0.0
+occupation_status_Student,0.0
+occupation_status_Self-Employed,0.0
+product_type_Line of Credit,0.0
+loan_intent_Business,0.0
+product_type_Personal Loan,0.0
+loan_intent_Home Improvement,0.0
+loan_intent_Medical,0.0
